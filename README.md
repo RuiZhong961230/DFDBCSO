@@ -17,7 +17,7 @@ not={Accepted}
 }  
 
 ## Datasets and Libraries
-CEC benchmarks are provided by opfunu==1.0.0 library.
+CEC benchmarks and Engineering problems are provided by opfunu==1.0.0 and enoppy==0.1.1 libraries, respectively. The dataset of the superconductor critical temperature prediction can be downloaded at https://www.kaggle.com/datasets/munumbutt/superconductor-dataset.
 
 ## Contact
-If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
+If you have any questions, please don't hesitate to contact yang.cao.y4[at]elms.hokudai.ac.jp and zhongrui[at]iic.hokudai.ac.jp.
